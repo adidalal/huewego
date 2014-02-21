@@ -1,0 +1,40 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "0c4d8456-321b-46f7-9813-ca14fb03ac3d",
+    "appKeys": {},
+    "longName": "Hue We Go Again",
+    "versionCode": 3,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "HueWeGo",
+    "companyName": "nsalomons",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "TORCH_ICON",
+                "file": "images/torch_icon.png"
+            },
+            {
+                "type": "png",
+                "name": "static",
+                "file": "images/sand_image.png"
+            },
+            {
+                "type": "png",
+                "name": "failure",
+                "file": "images/fail_image.png"
+            },
+            {
+                "type": "png",
+                "name": "walrus_of_win",
+                "file": "images/win_image.png"
+            }
+        ]
+    }
+}
